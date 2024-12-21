@@ -21,28 +21,6 @@ A modern, web-based Python IDE with integrated AI code generation powered by Goo
 - [Bootstrap](https://getbootstrap.com/) for UI components
 - Local Storage for settings management to store API key in cache
 
-## 💻 Usage
-
-1. **Basic Code Execution**
-   - Write Python code in the editor
-   - Click "Run" to execute
-   - View output in the console below
-
-2. **AI Code Generation**
-   - Click the AI button (🤖)
-   - Enter your coding request
-   - Click "Generate Code"
-
-3. **File Operations**
-   - Create new files
-   - Open existing Python files
-   - Save your work locally
-
-4. **Customization**
-   - Change themes (Monokai, Default, Dracula)
-   - Adjust font size
-   - Toggle console visibility
-
 ## ⚙️ Configuration
 
 Access the settings modal to:
