@@ -11,6 +11,7 @@ A modern, web-based Python IDE with integrated AI code generation powered by Goo
 - 💾 **File Management** - Save and load Python files
 - 🖥️ **Interactive Console** - Real-time output display with support for basic input operations
 - 🎯 **Responsive Design** - Works seamlessly on both desktop and mobile devices
+- 🤖 **AI Code Explanation** - Highlight code and right-click explain to get detailed explanations
 
 ## 🛠️ Technologies Used
 
