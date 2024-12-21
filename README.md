@@ -7,7 +7,7 @@ A modern, web-based Python IDE with integrated AI code generation powered by Goo
 - 🚀 **Browser-Based Python Execution** - Run Python code directly in your browser using Pyodide
 - 🤖 **AI Code Generation** - Generate Python code using Google's Gemini AI
 - 📝 **Advanced Code Editor** - Featuring syntax highlighting, auto-indentation, and bracket matching
-- 🎨 **Customizable Interface** - Multiple themes and adjustable font sizes
+- 🎨 **Customizable Interface** - 50+ themes and adjustable font sizes
 - 💾 **File Management** - Save and load Python files
 - 🖥️ **Interactive Console** - Real-time output display with support for basic input operations
 - 🎯 **Responsive Design** - Works seamlessly on both desktop and mobile devices
