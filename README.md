@@ -1,6 +1,6 @@
 # AI-PY-IDE
 
-A modern, web-based Python IDE with integrated AI code generation powered by Google's Gemini LLM. Write, run, and generate Python code directly in your browser.
+A modern, web-based Python IDE with integrated AI code generation powered by Google's Gemini LLM. Write, run, and generate Python code directly in your browser. Gemini also explains any highlighted code.
 
 ## ✨ Features
 
